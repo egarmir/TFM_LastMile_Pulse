@@ -17,7 +17,7 @@ El motor de este proyecto se basa en el dataset **LaDe (Last-mile Delivery Datas
 ---
 
 ## 🛠️ Funcionalidades del Proyecto
-1. **Modelado Predictivo:** Pipeline dual que clasifica el riesgo de retraso y estima el tiempo exacto de latencia en minutos.
+1. **Modelado Predictivo:** Pipeline dual que clasifica el riesgo de retraso y estima el tiempo de latencia en minutos.
 2. **Dashboard de Operaciones:** - **Heatmaps:** Visualización de zonas críticas de congestión por hora.
    - **Alertas Tempranas:** Identificación automática de los 10 pedidos con mayor riesgo de incumplimiento de SLA.
 3. **Interfaz Gradio:** Herramienta diseñada para gestión de tráfico logístico.
